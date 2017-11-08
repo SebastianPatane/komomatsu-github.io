@@ -1,1 +1,0 @@
-# This is my rock paper scissors project. The app.js file contains the randomization problem, and the sketch.js file is the front end for the game, that I have not yet finished.
