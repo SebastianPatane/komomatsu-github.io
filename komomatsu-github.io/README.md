@@ -1,1 +1,1 @@
-# komomatsu-github.io
+# Only open the index.html file if it's source is "app.js", ignore the sketch.js file
